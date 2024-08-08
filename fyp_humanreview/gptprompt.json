@@ -1,0 +1,23 @@
+[
+  {
+    "prompt": "The review should be insightful and detailed, similar to the style of the provided reviews. It should cover the strengths and weaknesses of the movie, the performance of the cast, the direction, and how well the plot and genre elements are executed. Include an overall impression and whether you would recommend the movie to others."
+  },
+  {
+    "prompt": "The review should focus on character development and plot progression. Discuss how the characters evolve throughout the movie, how their interactions drive the story forward, and any significant moments that stand out. Evaluate the plot's pacing, twists, and how engaging it is overall. Conclude with your thoughts on how well the movie achieves its goals within its genre."
+  },
+  {
+    "prompt": "The review should emphasize the direction and cinematography. Analyze how the director's choices impact the storytelling, the visual style of the movie, and any memorable scenes or visual techniques used. Discuss how the cinematography enhances the mood and themes of the movie. Provide an overall assessment of the director's vision and execution."
+  },
+  {
+    "prompt": "The review should include a comparison with similar movies within the same genre or by the same director. Highlight what sets this movie apart, its unique strengths, and any areas where it may fall short compared to others. Discuss how it contributes to its genre and whether it offers a fresh perspective or familiar themes. Conclude with a recommendation for audiences who might enjoy this movie."
+  },
+  {
+    "prompt": "Please write a human-like, insightful review for a movie using the following details: Title: [Movie Title], Plot: [Brief plot summary], Cast: [List of main actors], Director: [Director's name], Release Year: [Year of release], Origin/Ethnicity: [Country or cultural background of the movie], Genre: [Genres of the movie], Wikipedia Link: [Link to the movie's Wikipedia page]. In the review, provide an overall impression of the movie, highlighting its strengths and weaknesses, and evaluate how effectively it engages the audience. Discuss the character development and plot progression, analyzing how the characters evolve and interact to drive the story forward, while also considering the pacing, twists, and significant moments. Emphasize the director’s choices and their impact on the storytelling, along with the visual style and cinematography, noting how these elements enhance the mood and themes. Additionally, compare the movie to similar films within the same genre or by the same director, pointing out what sets it apart or where it may fall short. Finally, include personal reflections on your experience watching the movie and consider its appeal to different audiences, offering a balanced view that combines both subjective impressions and objective analysis."
+  },
+  {
+    "prompt": ""
+  },
+  {
+    "prompt": ""
+  }
+]
